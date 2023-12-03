@@ -1,4 +1,4 @@
-/// <reference types="Cypress" />
+--/// <reference types="Cypress" />
 
 describe('Agendar um aendimento', function() {
     it('Agendar um aendimento com profissional e depois cancelar', function() {
